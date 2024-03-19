@@ -1,6 +1,7 @@
 # For reviewers:
-GitHub Link: https://github.com/profowl/Project-Build-an-ML-Pipeline-Starter.git
-Weights and Biases Link: https://wandb.ai/angelika-lyubenko/nyc_airbnb?nw=nwuserangelikalyubenko
+
+ * GitHub Link: https://github.com/profowl/Project-Build-an-ML-Pipeline-Starter.git
+ * Weights and Biases Link: https://wandb.ai/angelika-lyubenko/nyc_airbnb?nw=nwuserangelikalyubenko
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
